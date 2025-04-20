@@ -1,7 +1,3 @@
-Got it! Here's your updated `README.md` with the **Roboflow dataset link** added under a dedicated section for clarity. I also mentioned that data preprocessing and augmentation are shared there.
-
----
-
 # 📂 Project Versions - Google Drive & Colab
 
 This README serves as a reference list for different versions of the project, including links to both their **Google Drive folders** and **Google Colab notebooks**.
@@ -45,3 +41,7 @@ This README serves as a reference list for different versions of the project, in
 
 This Roboflow project includes the dataset used, along with preprocessing steps and data augmentation configurations.
 
+## 📄 Updated Report
+
+- **📄 Google Docs Report**:  
+https://docs.google.com/document/d/1FSSFleYAnvdOmTAfAy-W6D4FK8U48SqOHrQOufTwYyw/edit?pli=1&tab=t.0
